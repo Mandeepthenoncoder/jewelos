@@ -1,0 +1,65 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f3f4f6" />
+  
+  <!-- CRM Dashboard Interface -->
+  <rect x="100" y="100" width="600" height="400" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="2" />
+  
+  <!-- Header Bar -->
+  <rect x="100" y="100" width="600" height="50" rx="10" fill="#f59e0b" />
+  <text x="150" y="130" font-family="Arial" font-size="18" fill="#ffffff">Customer Relationship Management</text>
+  
+  <!-- Left Side Menu -->
+  <rect x="100" y="150" width="150" height="350" fill="#fef3c7" />
+  
+  <!-- Menu Items -->
+  <rect x="110" y="170" width="130" height="30" rx="5" fill="#f59e0b" />
+  <text x="140" y="190" font-family="Arial" font-size="12" fill="#ffffff" text-anchor="middle">Dashboard</text>
+  
+  <rect x="110" y="210" width="130" height="30" rx="5" fill="#ffffff" stroke="#f59e0b" stroke-width="1" />
+  <text x="140" y="230" font-family="Arial" font-size="12" fill="#f59e0b" text-anchor="middle">Customers</text>
+  
+  <rect x="110" y="250" width="130" height="30" rx="5" fill="#ffffff" stroke="#f59e0b" stroke-width="1" />
+  <text x="140" y="270" font-family="Arial" font-size="12" fill="#f59e0b" text-anchor="middle">Leads</text>
+  
+  <rect x="110" y="290" width="130" height="30" rx="5" fill="#ffffff" stroke="#f59e0b" stroke-width="1" />
+  <text x="140" y="310" font-family="Arial" font-size="12" fill="#f59e0b" text-anchor="middle">Family Connections</text>
+  
+  <rect x="110" y="330" width="130" height="30" rx="5" fill="#ffffff" stroke="#f59e0b" stroke-width="1" />
+  <text x="140" y="350" font-family="Arial" font-size="12" fill="#f59e0b" text-anchor="middle">Purchase History</text>
+  
+  <!-- Main Content Area - Customer List -->
+  <rect x="260" y="160" width="430" height="330" rx="5" fill="#ffffff" stroke="#e5e7eb" stroke-width="1" />
+  
+  <!-- Table Header -->
+  <rect x="270" y="170" width="410" height="30" fill="#f3f4f6" />
+  <text x="290" y="190" font-family="Arial" font-size="12" fill="#374151">Customer Name</text>
+  <text x="440" y="190" font-family="Arial" font-size="12" fill="#374151">Phone</text>
+  <text x="550" y="190" font-family="Arial" font-size="12" fill="#374151">Last Purchase</text>
+  <text x="650" y="190" font-family="Arial" font-size="12" fill="#374151">Status</text>
+  
+  <!-- Customer Rows -->
+  <rect x="270" y="210" width="410" height="40" fill="#ffffff" stroke="#e5e7eb" stroke-width="1" />
+  <text x="290" y="235" font-family="Arial" font-size="12" fill="#1f2937">Rajesh Kumar</text>
+  <text x="440" y="235" font-family="Arial" font-size="12" fill="#4b5563">+91 98765 43210</text>
+  <text x="550" y="235" font-family="Arial" font-size="12" fill="#4b5563">May 12, 2025</text>
+  <rect x="650" y="220" width="40" height="20" rx="10" fill="#dcfce7" />
+  <text x="670" y="235" font-family="Arial" font-size="10" fill="#166534" text-anchor="middle">VIP</text>
+  
+  <rect x="270" y="260" width="410" height="40" fill="#ffffff" stroke="#e5e7eb" stroke-width="1" />
+  <text x="290" y="285" font-family="Arial" font-size="12" fill="#1f2937">Priya Sharma</text>
+  <text x="440" y="285" font-family="Arial" font-size="12" fill="#4b5563">+91 87654 32109</text>
+  <text x="550" y="285" font-family="Arial" font-size="12" fill="#4b5563">May 8, 2025</text>
+  <rect x="650" y="270" width="40" height="20" rx="10" fill="#fef3c7" />
+  <text x="670" y="285" font-family="Arial" font-size="10" fill="#92400e" text-anchor="middle">New</text>
+  
+  <rect x="270" y="310" width="410" height="40" fill="#ffffff" stroke="#e5e7eb" stroke-width="1" />
+  <text x="290" y="335" font-family="Arial" font-size="12" fill="#1f2937">Amit Patel</text>
+  <text x="440" y="335" font-family="Arial" font-size="12" fill="#4b5563">+91 76543 21098</text>
+  <text x="550" y="335" font-family="Arial" font-size="12" fill="#4b5563">May 5, 2025</text>
+  <rect x="650" y="320" width="40" height="20" rx="10" fill="#dbeafe" />
+  <text x="670" y="335" font-family="Arial" font-size="10" fill="#1e40af" text-anchor="middle">Loyal</text>
+  
+  <!-- Text indicating this is a placeholder -->
+  <text x="400" y="530" font-family="Arial" font-size="20" text-anchor="middle" fill="#6b7280">CRM Features Image Placeholder</text>
+</svg> 

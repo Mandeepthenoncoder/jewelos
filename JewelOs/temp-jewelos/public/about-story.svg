@@ -1,0 +1,32 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f3f4f6" />
+  
+  <!-- Abstract jewelry shop illustration -->
+  <rect x="100" y="150" width="600" height="300" rx="20" fill="#ffffff" stroke="#e5e7eb" stroke-width="2" />
+  
+  <!-- Jewelry counter -->
+  <rect x="150" y="200" width="500" height="80" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" />
+  
+  <!-- Jewelry display case 1 -->
+  <rect x="180" y="220" width="120" height="40" rx="3" fill="#fffbeb" stroke="#f59e0b" stroke-width="1" />
+  
+  <!-- Jewelry display case 2 -->
+  <rect x="340" y="220" width="120" height="40" rx="3" fill="#fffbeb" stroke="#f59e0b" stroke-width="1" />
+  
+  <!-- Jewelry display case 3 -->
+  <rect x="500" y="220" width="120" height="40" rx="3" fill="#fffbeb" stroke="#f59e0b" stroke-width="1" />
+  
+  <!-- People silhouettes -->
+  <circle cx="250" cy="350" r="30" fill="#d97706" />
+  <rect x="235" y="380" width="30" height="50" rx="5" fill="#d97706" />
+  
+  <circle cx="400" cy="350" r="30" fill="#1f2937" />
+  <rect x="385" y="380" width="30" height="50" rx="5" fill="#1f2937" />
+  
+  <circle cx="550" cy="350" r="30" fill="#d97706" />
+  <rect x="535" y="380" width="30" height="50" rx="5" fill="#d97706" />
+  
+  <!-- Text indicating this is a placeholder -->
+  <text x="400" y="500" font-family="Arial" font-size="20" text-anchor="middle" fill="#6b7280">About Story Image Placeholder</text>
+</svg> 
