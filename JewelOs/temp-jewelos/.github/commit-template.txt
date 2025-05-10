@@ -1,0 +1,28 @@
+# [TYPE]: Brief description (50 chars)
+# |<---- Use 50 characters max in this line ----->|
+
+# Detailed explanation of changes (72 chars per line)
+# |<---- Try to limit each line to 72 characters ------------------->|
+# 
+# Explain the problem this commit is solving. Focus on why you
+# are making this change as opposed to how. Are there side effects
+# or other unexpected consequences of this change?
+
+# --- COMMIT END ---
+# TYPE can be:
+#    feat     (new feature)
+#    fix      (bug fix)
+#    refactor (code restructuring, no functionality change)
+#    style    (formatting, missing semicolons, etc; no code change)
+#    docs     (changes to documentation)
+#    test     (adding or refactoring tests; no production code change)
+#    chore    (updating build tasks, package configs, etc; no production code change)
+# --------------------
+# Remember to:
+#    - Separate subject from body with a blank line
+#    - Capitalize the subject line
+#    - Do not end the subject line with a period
+#    - Use the imperative mood in the subject line (e.g., "Add" not "Added")
+#    - Wrap the body at 72 characters
+#    - Use the body to explain what and why vs. how
+# -------------------- 
